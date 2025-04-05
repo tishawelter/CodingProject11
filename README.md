@@ -3,17 +3,18 @@
 
 This module is a CRUD-based console application that allows users to manage their personal DIY projects through a simple, menu-driven interface.
 
+All operations are performed using user input via console.
+
 📋 Features
 
 Add new DIY projects
 
 List all existing projects
 
-✏Update project details
+Update project details
 
 Delete a project
 
-All operations are performed using user input via console.
 
 🧱 Application Layers
 
