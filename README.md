@@ -26,6 +26,7 @@ Project Service – Contains business logic and bridges DAO with the menu interf
 Project Exception – Custom exception handling for project-related operations
 
 🛠️ Tech Stack
+
 Java
 
 MySQL (Database)
