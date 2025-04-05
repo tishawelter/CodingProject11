@@ -4,6 +4,7 @@
 This module is a CRUD-based console application that allows users to manage their personal DIY projects through a simple, menu-driven interface.
 
 📋 Features
+
 ➕ Add new DIY projects
 
 📄 List all existing projects
@@ -15,6 +16,7 @@ This module is a CRUD-based console application that allows users to manage thei
 All operations are performed using user input via console.
 
 🧱 Application Layers
+
 Project Entity – Represents the project data model
 
 Project DAO (Data Access Object) – Handles direct interaction with the MySQL database
