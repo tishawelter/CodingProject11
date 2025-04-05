@@ -5,13 +5,13 @@ This module is a CRUD-based console application that allows users to manage thei
 
 📋 Features
 
-➕ Add new DIY projects
+Add new DIY projects
 
-📄 List all existing projects
+List all existing projects
 
-✏️ Update project details
+✏Update project details
 
-❌ Delete a project
+Delete a project
 
 All operations are performed using user input via console.
 
